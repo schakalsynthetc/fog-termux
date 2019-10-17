@@ -23,5 +23,5 @@ $TERMUX/usr/bin/proot \
   # -b /:/mnt/hostroot \
   # -b $TERMUX:/mnt/termux \
   # -b /storage/emulated/0:/mnt/sdcard \
-  $EMU -r $ROOT \
+  $EMU -r $INFERNO \
   $"@"
